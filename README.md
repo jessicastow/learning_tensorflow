@@ -8,3 +8,8 @@
 - **Deep Learning:** a subfield of machine learning that uses multi-layered neural networks. 
 
 ![image](https://user-images.githubusercontent.com/56385852/235426121-33e21017-ed8e-4800-b64f-08a7a1d12680.png)
+
+Flattening: The process of converting a 2d image into 1d vector
+ReLU: An activation function that allows a model to solve nonlinear problems
+Softmax: A function that provides probabilities for each possible output class
+Classification: A machine learning model used for distinguishing among two or more output categories
